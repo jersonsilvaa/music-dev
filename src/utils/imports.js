@@ -7,6 +7,7 @@ import SongBar from '../components/SongBar'
 import SongCard from '../components/SongCard'
 import SearchBar from '../components/SearchBar'
 import ArtistCard from '../components/ArtistCard'
+import MusicPlayer from '../components/MusicPlayer'
 import RelatedSongs from '../components/RelatedSongs'
 import DetailsHeader from '../components/DetailsHeader'
 
@@ -29,6 +30,7 @@ export {
     SongCard,
     SearchBar,
     ArtistCard,
+    MusicPlayer,
     RelatedSongs,
     DetailsHeader,
 
